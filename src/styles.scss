@@ -26,11 +26,11 @@ app-job-list {
 
     div.list-item {
       item-content i{
-       color: #4a89dc;
+       color: #55a098 !important;
       }
       >item-header item-title {
         >h6 {
-          color: #4a89dc;
+          color: #55a098 !important;
         }
       }
     }
@@ -151,7 +151,7 @@ app-apply-modal {
           float: right;
           padding: 2em 0 0 0;
           span {
-            color: #276ecc;
+            color: #55a098;
           }
         }
       }
@@ -164,5 +164,3 @@ app-apply-modal {
     }
   }
 }
-
-
