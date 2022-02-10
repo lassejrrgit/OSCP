@@ -51,7 +51,7 @@
     "he": "^1.2.0",
     "jsontoxml": "^1.0.1",
     "ngx-clipboard": "^10.0.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "novo-elements": "3.14.0",
     "post-robot": "^8.0.31",
     "preboot": "^6.0.0",
